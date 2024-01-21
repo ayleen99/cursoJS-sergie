@@ -1,0 +1,1 @@
+//QUE ES UN EVENTO EN JS? es una accion o suceso que pasa dentro de la pagina web, puede ser desencadenado por el usuario al hacer click o por el mismo navegador al terminar de cargar la pagina, un recurso,etc
