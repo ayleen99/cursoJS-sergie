@@ -16,6 +16,7 @@ const exponente = 3 ** // ** es el operador de la exponenciacion
 
 console.log(suma)
 console.log(resta)
+
 console.log(multiplicacion)
 console.log(division)
 console.log(exponente)
