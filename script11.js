@@ -1,3 +1,4 @@
+
 //ARRAYS
 //QUE ES UN ARRAY EN JS?
 //es una estructura de datos que nos permiten almacenar varios elementos en una sola variable, es como una lista ordenada de elementos en la que cada uno tiene un indice que indica cual es la posicion en esta lista,se pueden almacenar todo tipo de elementos, string, number, booleanos,etc. 

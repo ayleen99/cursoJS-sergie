@@ -15,6 +15,7 @@ console.log(date.getMonth())
 console.log(date.getMinutes())
 //.getMinutes() da como resultado los minutos actuales
 console.log(date.getDate())
+//.getDate() da como resultado el dia 
 
 
 //ESTA ES UNA MANERA PARA QUE MUESTRE EL MES CON LETRAS EN VEZ DEL INDICE DEL MES
